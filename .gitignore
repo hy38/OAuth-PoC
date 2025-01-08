@@ -100,3 +100,6 @@ venv.bak/
 # macOS specific files
 .DS_Store
 
+# IDE specific
+.vscode/
+.idea/
