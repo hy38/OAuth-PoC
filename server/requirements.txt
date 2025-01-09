@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic
+cryptography  # KMS 암호화 지원
+sqlalchemy    # DB 연결 (예: SQLite, PostgreSQL)
